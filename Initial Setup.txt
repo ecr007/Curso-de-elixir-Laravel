@@ -1,0 +1,8 @@
+/*** Iniciando con las configuraciones ***/
+
+1 - Para ver la versión de laravel se puede entrar a la clase aplication.php
+
+2 - Para ver la versión de node.js basta con escribir en la terminal node -v 
+
+3 - Para ver la versión de gulp.js basta con escribir gulp -v
+
