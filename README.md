@@ -1,16 +1,16 @@
 # Apuntes del curso de elixir [Laracasts]
 
-1 - Initial Setup \n
-2 - Sass and Less Compilation \n
-3 - CoffeeScript and ES6 Support \n
-4 - Sourcemaps \n
-5 - Gulp Watch \n
-6 - Concatenation \n
-7 - Gulp TDD \n
-8 - File Versioning \n
-9 - Browserify Compilation \n
-10 - Everybody Together Now \n
-11 - Custom Elixir Extensions \n
-12 - Configuring Elixir \n
-13 - Browsersync in Action \n
-14 - Painless Responsive Workflow \n
+1 - Initial Setup <br>
+2 - Sass and Less Compilation <br>
+3 - CoffeeScript and ES6 Support <br>
+4 - Sourcemaps <br>
+5 - Gulp Watch <br>
+6 - Concatenation <br>
+7 - Gulp TDD <br>
+8 - File Versioning <br>
+9 - Browserify Compilation <br>
+10 - Everybody Together Now <br>
+11 - Custom Elixir Extensions <br>
+12 - Configuring Elixir <br>
+13 - Browsersync in Action <br>
+14 - Painless Responsive Workflow <br>
